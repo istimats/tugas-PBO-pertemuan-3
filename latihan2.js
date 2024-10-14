@@ -99,10 +99,7 @@ class kapalSelam extends kodeKapal{
          + this.kodekapal() + ` bahan bakar ${this.bahanBakar} `+this.getStatus())
     }
 }
-// let kapalPenumpang = new kodeKapal('kapal penumpang', 'ferry', 'bakau huni', 401, 20)
-// console.log(kapalPenumpang.infoKapal())
-// console.log(kapalPenumpang.setStatusTersedia())
-// console.log(kapalPenumpang.kodekapal())
+
 
 
 
